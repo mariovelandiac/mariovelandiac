@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Mario <br>🤝 I'm a looking to collaborate as a Junior Web Developer<br>💻 I'm currently learning JavaScript technologies<br>🎸 I'm bass player
+👋 Hi! I'm Mario <br> 📕 I am a self-taught Web Developer <br>🌱 I'm currently learning JavaScript technologies<br>🎸 I'm bass player
 
 
 ## 🌐 Socials:
