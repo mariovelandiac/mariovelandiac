@@ -30,8 +30,11 @@ I began my journey as a Chemical Engineer, but currently, I am oriented towards 
 <br/>  
 
 ## Languages and Tools ## 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,nodejs,docker,postgres,ts,mongodb&theme=dark)](https://skills.thijs.gg)
-  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,wordpress,js,ts,nodejs,express,nestjs,postgres,sequelize,dynamodb,mongodb,docker,aws,firebase,git&theme=dark&perline=4" />
+  </a>
+</p>
 
 ## Music I listen to
   
