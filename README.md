@@ -1,38 +1,37 @@
 # Hi, I'm Mario! 👋
 
 
-I'm a self-taught backend developer with node.js by day ☀️ and musician (bass player 🎸) by night 🌃.
+I'm a backend developer 💻️, a chemical engineer 🧪, and a musician 🎸.
 
-I began my journey as a Chemical Engineer, but currently, I am oriented towards one of my passions: technology. Therefore, I could act as a website manager with Wordpress, and later specialize in backend development with Node.js
+I began my journey as a Chemical Engineer, but currently, I am oriented towards one of my passions: technology.
 
+## 🔗 Connect with me
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariovelandiac)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mariovelandiac)
-[![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariovelandiawork@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariovelandiac)
+<p align="left">
+<a href="https://twitter.com/mariovelandiac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariovelandiac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariovelandiac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariovelandiac" height="30" width="40" /></a>
+<a href="https://instagram.com/mariovelandiac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariovelandiac" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mariovelandiac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mariovelandiac" height="30" width="40" /></a>
+</p>
 
 ## 😁 About Me
 
-👩‍💻 I would like to gain experience in Infrastructure as Code and Cloud services
+- 👩‍💻 I would like to gain experience in Infrastructure as Code and Cloud services
 
-🧠 I'm currently learning Java with Spring Framework
+- 🌱 I'm currently learning Java with Spring Framework
 
-💬 Ask me about anything, I really like to help;
+- 💬 Ask me about anything, I really like to help;
 
-📫 How to reach [me](mailto:mariovelandiawork@gmail.com) 
+- 📫 How to reach [me](mailto:mariovelandiawork@gmail.com) 
 
-😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
-⚡️ I love Sci-fi movies
-
-<br/>  
+- ⚡️ I love Sci-fi movies
 
 ## Languages and Tools ## 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,wordpress,js,ts,nodejs,express,nestjs,postgres,sequelize,dynamodb,mongodb,docker,aws,firebase,git&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,python,c,ts,nodejs,express,django,angular,postgres,mongodb,git,bash,docker,aws,matlab,html&theme=dark&perline=4" />
   </a>
 </p>
 
