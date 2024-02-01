@@ -18,9 +18,9 @@ I began my journey as a chemical engineer, but currently, I am oriented towards 
 
 - 👩‍💻 I would like to gain experience in Infrastructure as Code and Cloud services
 
-- 🌱 I'm currently learning Java with Spring Framework
-
-- 💬 Ask me about anything, I really like to help;
+- 🌱 I'm currently learning Angular
+  
+- 💬 Ask me about anything, I really like to help
 
 - 📫 How to reach [me](mailto:mariovelandiawork@gmail.com) 
 
