@@ -3,7 +3,7 @@
 
 I'm a backend developer 💻️, a chemical engineer 🧪, and a musician 🎸.
 
-I began my journey as a Chemical Engineer, but currently, I am oriented towards one of my passions: technology.
+I began my journey as a chemical engineer, but currently, I am oriented towards one of my passions: technology.
 
 ## 🔗 Connect with me
 
